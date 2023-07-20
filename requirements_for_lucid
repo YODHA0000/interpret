@@ -1,0 +1,6 @@
+python 3.6
+pip install lucid==0.0.5
+pip install scipy==1.2.1
+pip install numpy==1.16.4
+pip install protobuf==3.20.0
+pip install tensorflow==1.15
